@@ -4,6 +4,8 @@ Delete tweets script (no need a tweets archive file). You can paste this script 
 
 I started this repo because I need to allow others to send me a pull request in case you want to improve or fix bug if it doesn't works.
 
+<img src="https://user-images.githubusercontent.com/2943187/119658972-e9ddee00-be57-11eb-8840-213d3e6e49a3.gif" width="800" />
+
 ## Installation 
 
 You don't need it.
