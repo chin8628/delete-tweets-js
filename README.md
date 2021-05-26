@@ -29,3 +29,7 @@ You don't need it.
 
 - You should not minimize the Chrome window, the script may be error.
 - etc...
+
+## Contribution
+
+I really happy to see your pr! Also fix my grammar and typo on this readme.md please.
