@@ -4,7 +4,7 @@ Delete tweets script (no need a tweets archive file). You can paste this script 
 
 I started this repo because I need to allow others to send me a pull request in case you want to improve or fix bug if it doesn't works.
 
-## Lastest test result
+## Lastest testing results
 
 - Google Chrome Version 90.0.4430.212 (Official Build) (x86_64) on MacOS BigSur [26 May 2021]
 
