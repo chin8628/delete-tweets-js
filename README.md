@@ -6,7 +6,7 @@ I started this repo because I need to allow others to send me a pull request in 
 
 ## Installation 
 
-You don't need to do it.
+You don't need it.
 
 ![We don't do that here.](https://i.imgur.com/OYY4VcP.gif)
 
